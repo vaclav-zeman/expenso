@@ -5,7 +5,10 @@
 * App is built only for Android and has not been tested on any iOS device
 * App contains a lot of bugs and incomplete features
 
+![App Screenshot](/screenshots/expenso.jpg?raw=true)
+
 ## How to Run App
 create your [Firebase database](https://console.firebase.google.com/) and add your API credentials to the `common/config.js`.
 
 run `react-native run-android`
+
